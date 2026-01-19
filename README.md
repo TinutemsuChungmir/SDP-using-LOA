@@ -7,10 +7,11 @@ In this project, the Lyrebird Optimization Algorithm (LOA) is employed as a meta
 <ins>Exploitation Phase</ins> (Local Search): After identifying the promising areas, LOA turns to intensive local search. During exploitation, the agents focus on perfecting the best solutions found. In our case, we run the optimization for incremental changes in feature set and hyperparameter values to improve classifier's final accuracy and F1-score.
 
 Under this project, we propose an improved Software defect prediction framework a set of four machine learning classifiers:
-1.SVM 
-2.Decision Tree
-3.KNN 
-4.Naive Bayes
+1. SVM 
+2. Decision Tree
+3. KNN 
+4. Naive Bayes
+   
 enhanced by Lyrebird optimization algorithm (LOA) which is employed with feature selection and hyperparameter tunning. 
 
 Experiments on NASA PROMISE benchmark datasets (PC1, PC4, KC2, KC3 and MC1) indicate enhanced accuracy compared with Decision Tree that yields 98.74% on the MC1 dataset. The approach conducts pre-processing of data, performs dimensionality reduction and can be used for fast and reliable defect detection.
