@@ -12,6 +12,6 @@ Under this project, we propose an improved Software defect prediction framework 
 3. KNN 
 4. Naive Bayes
    
-enhanced by Lyrebird optimization algorithm (LOA) which is employed with feature selection and hyperparameter tunning. 
+Enhanced by the Lyrebird optimization algorithm (LOA) which is employed with feature selection and hyperparameter tuning. 
 
 Experiments on NASA PROMISE benchmark datasets (PC1, PC4, KC2, KC3 and MC1) indicate enhanced accuracy compared with Decision Tree that yields 98.74% on the MC1 dataset. The approach conducts pre-processing of data, performs dimensionality reduction and can be used for fast and reliable defect detection.
